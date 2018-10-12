@@ -1,2 +1,2 @@
 # custom-seekbars
-A few custom widgets for an Android application.
+This repository contains three different takes on an ordinary widget, the seekbar.
